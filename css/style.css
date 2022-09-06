@@ -23,7 +23,18 @@ body {
 }
 
 .password {
+  padding: 8px;
+  margin: 8px;
+  caret-color: transparent;
+  cursor: pointer;
 }
 
 .password-button {
+  padding: 8px;
+  background-color: rgb(216, 125, 235);
+  border-color: aliceblue;
+  color: #f1f5f8;
+  border: none;
+  border-radius: 2px;
+  margin: 2px;
 }
